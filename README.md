@@ -1,3 +1,5 @@
-# Hello Project1
+## Live URL
+<http://p1.gguzman.me>
 
-This is Project 1 - About me
+## Description
+About me Project 1. Portfolio for future projects.
